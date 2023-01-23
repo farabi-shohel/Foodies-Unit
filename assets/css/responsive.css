@@ -1,0 +1,101 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px){
+
+/* section */
+section {
+    padding: 30px 0;
+}
+
+/* hero */
+#hero h2{
+	font-size: 25px;
+}
+
+
+#hero .btn-common{
+	margin-top: 20px;
+}
+
+/* Logo */
+#header .logo img {
+   width: 80%;
+}
+.mobile-nav-toggle {
+    right: 22px;
+    top: 30px;
+}
+/* Logo */
+
+/* About */
+.about .content h3{
+	font-size: 28px;
+}
+
+/* Why-us */
+.why-us .box h4{
+	font-size: 20px;
+}
+/* Why-us */
+/* 	Specials */
+.special-food img{
+  width: 50%;
+}
+.specials .details h3 {
+    font-size: 20px;
+}
+/* 	Specials */
+
+.section-title h2 {
+	font-size: 21px;
+    font-weight: 700;
+}
+
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px){
+
+/* Logo */
+#header .logo img {
+   width: 80%;
+}
+.mobile-nav-toggle {
+    right: 32px;
+    top: 30px;
+}
+/* Logo */
+
+
+/* 	Specials */
+.special-food img{
+  width: 50%;
+}
+/* 	Specials */
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px){
+
+/* Logo */
+#header .logo img {
+   width: 80%;
+}
+.mobile-nav-toggle {
+    right: 32px;
+    top: 30px;
+}
+/* Logo */
+
+
+/* 	Specials */
+.special-food img{
+  width: 50%;
+}
+/* 	Specials */
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
